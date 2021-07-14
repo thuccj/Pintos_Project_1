@@ -44,5 +44,5 @@ You can follow the same step as the [Video]( https://www.youtube.com/watch?v=CI5
 ## **Run Pintos**
 Go to src/thread/build/ open terminal and
 
-	Make check
+	make check
 😉👌
