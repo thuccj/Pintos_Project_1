@@ -30,8 +30,10 @@
 	pass tests/threads/mlfqs-nice-10
 	pass tests/threads/mlfqs-block
 	All 27 tests passed.
+<img src="https://anh4.com/image/JX75Ht">
 ## **Install**
 You will also need to install the following packages:
+
 	sudo apt-get install gcc
 	sudo apt-get install g++
 	sudo apt-get upgrade perl
@@ -41,4 +43,5 @@ You will also need to install the following packages:
 You can follow the same step as the [Video]( https://www.youtube.com/watch?v=CI5FHJhXv38) below.
 ## **Run Pintos**
 Go to src/thread/build/ open terminal and
+
 	Make check
