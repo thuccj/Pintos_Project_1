@@ -30,7 +30,7 @@
 	pass tests/threads/mlfqs-nice-10
 	pass tests/threads/mlfqs-block
 	All 27 tests passed.
-My img src="https://anh4.com/images/2021/07/14/JX75Ht.png">
+My img src: https://anh4.com/images/2021/07/14/JX75Ht.png
 ## **Install**
 You will also need to install the following packages:
 
